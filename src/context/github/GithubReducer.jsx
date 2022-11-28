@@ -27,6 +27,6 @@ const githubReducer = (state, action) => {
         default: 
             return state
     }
-}
+} 
 
 export default githubReducer
